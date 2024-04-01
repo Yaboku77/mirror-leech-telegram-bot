@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "southern-unity-418921",
+  "private_key_id": "582c23f51b9d57a6300166df08417b38bd37059a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDEGv0PS48o6cRP\ng1a/MfqXrjEu/vNo/WIpcxBWV8bWNudE/IrB4hXyCV/AYsuyrz9JoSLBjJLmerS2\nPui22zsLbm8INmGvqVM2iicrXavpyV0jHhTzGim5rXxHBDYlIfWERdNO7HljiDuh\n+ttV5YsgChwv+zr6IsLMZOetX2q+kYD2ZM4zzkim0hEXhi1kZ8w6VpgU3KFYHxyi\nR/OrrGNXwfp7Hw9wWXAK6h3DmZSpfj8RhVcLlO5rE70Z7Bw5qNnkQYk6CA+uWtXL\nwY0KZgSXpPtRiBamgBXr1TxpBp74wm6is6BCNnSGKMx7Fihk5zBYyOKBoSL2d2Jl\nDNWTK9VRAgMBAAECggEABCWddRe4E+mImhVZDeM+zTsU5W1lBJL6Is4A+hByXxiL\nYLM19HZlWChQVutH6zQHQrV2fJEOULMm0+VF6sr9R0c7MBllTK+IF9LJVAKPtnqI\nfov97auflwJ3CrHpOrUKgfTvjF9WDE+m0iyxu3HmlKN+F9ooU76NL8ERAKKwSU4V\nG3xMKGhQm0iw4+FS1IbC0rpm23firMzFQA+TlIBL8lp2yqSduzFjvx8Eo1ptHLcR\ntG+rE8iwCcTco8hFhBotRPJX+W/a7D+KvfiB5WVC8/jRXokIBjruDtoW5jdJ/Zyw\nzrdm2AeWf1EMuqOAMcTNerYi3HS6Vxe0Gg0vPXm2mQKBgQD59DU3vHBFgJuocK+p\nFSck2nUt2aJRYZre/snNLT6eqlYF8csibNoun3M/ITRZ6THq0Rj2/u3UI/EIPxRl\n1NwR4Ib2/cJ+8EbCcQK9lxsKoxk3p1VnAD6DXpv6CLBhiUPOiCL3OwlNVA3O0DJ2\niwZITsXjwD2wO82tvycNrhJuGQKBgQDI2VV/kbfUiQGdoV9PWHLbPKZPxWCRvEsb\nSeOVDtto478Bs3v8wA05hV5kdxzZMUSEL4t5nnbI6pX3Tfx8cBQVjSnPlIfQUES0\nhWSTY0kQliw/LYefpVdLDw4gclvKJE2HEXO3nE4NMNmRdKGkRT+BxTpf+IjGvbPm\nD1foVH6X+QKBgHXQ+UCzTsxD6ZsEupfdQ50oZ7Fb8xmfAyv3NtHCcNDDA1c7+H7a\nhiERwXXRRebXd1LyimzqDto+sr8rVIcHRVAb4CINzJ6ezQubzynkTre91wYXlra9\nM7oiXy0E6XagB9kS7EBSkHjllLiWBCNCNozgrIBEvg8SsUkjX9of4coJAoGAapCF\ngI38D1Qx+0SnoR24swHW6/Q5bJmO8AegLHIZj+lmaqykWFI9sgtFLeDU+ZfeVpQz\nWG/vbmKo9vH1yMBep6CiUnToKmqsSWuNFXZUSeyjxVGO5/F+A2EVibmjYfko+UUV\nNJJGB1Gn3jkXmmTzcRMICeuABpKYZLQ3XBmYoWECgYBgIVCiojW8MtyOUNXN9dtC\ncrntLR3ZtiB5Q0MJwrI3VMnnDP7WmEo3xzD3fzjX1W78VaLBPEIKZdS3fNRnX+UD\ny3jeuVouXmD9CURDLI3tTc3BAFoTbH+JPbup7vPWxVtO6ahF4qfdetUEKgYck5vp\n2XpBsggBHXykK8DdfNB+6g==\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-brwig-lkeb-cztc7wihi9c4uig@southern-unity-418921.iam.gserviceaccount.com",
+  "client_id": "102719477828510184071",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-brwig-lkeb-cztc7wihi9c4uig%40southern-unity-418921.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
